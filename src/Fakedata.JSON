@@ -1,0 +1,30 @@
+[
+{
+    "event":"Weading",
+    "price":"20000",
+    "image":"https://www.shaadidukaan.com/vogue/wp-content/uploads/2019/10/Wedding-Photography-Poses.jpg",
+    "timeDuration":"7",
+    "workars":"10-15"
+},
+{
+    "event":"Photography",
+    "price":"10000",
+    "image":"https://www.urby.in/blog/wp-content/uploads/2017/09/photographycoverimg.jpg",
+    "timeDuration":"1",
+    "workars":"3"
+},
+{
+    "event":"cultural event",
+    "price":"30000",
+    "image":"https://i.pinimg.com/originals/b0/4b/df/b04bdf1c273962aa52fe8edf0e6863e9.jpg",
+    "timeDuration":"3",
+    "workars":"7-10"
+},
+{
+    "event":"others event",
+    "price":"25000",
+    "image":"https://www1.chester.ac.uk/sites/default/files/styles/hero_mobile/public/Music-Production-and-Promotion_0.jpg?itok=AMRG5XBn",
+    "timeDuration":"2",
+    "workars":"4-5"
+}
+]
